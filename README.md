@@ -1,2 +1,2 @@
 # daw2-parejas-pr
-Web de jornadas de informática - Trabajo colaborativo
+Proyecto web de jornadas de informática desarrollado por Danielqd07.
