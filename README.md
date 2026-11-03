@@ -1,2 +1,3 @@
 # daw2-parejas-pr
-Proyecto web de jornadas de informática desarrollado por Danielqd07.
+Proyecto colaborativo de las Jornadas de Informática del IES Alixar, desarrollado por Danielqd07 y quinterodiazdaniel como 
+parte de la práctica de Control de Versiones y Flujos de Trabajo.
