@@ -1,2 +1,2 @@
 # daw2-parejas-pr
-Web de jornadas de informática - Trabajo colaborativo
+Proyecto colaborativo de jornadas tecnológicas realizado por dos estudiantes de DAW.
